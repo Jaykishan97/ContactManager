@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jay
+ *
+ */
+module ContactManager {
+}
